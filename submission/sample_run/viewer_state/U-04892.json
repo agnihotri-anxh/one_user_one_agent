@@ -1,0 +1,70 @@
+{
+  "user_id": "U-04892",
+  "arm": "agent",
+  "signup_at": "2025-06-23T19:11:25.190Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d1",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-01T15:40:22.375Z",
+  "last_event_at": "2026-10-01T14:28:47.536Z",
+  "last_app_open": "2026-10-01T14:28:47.536Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-01",
+    "2026-09-08",
+    "2026-09-16",
+    "2026-09-27",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Comedy": 1,
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-27T07:48:56.842Z",
+  "active_goal": {
+    "id": "G05",
+    "name": "first_paid_7d",
+    "started_at": "2026-10-01T14:28:47.536Z",
+    "deadline": "2026-10-08T14:28:47.536Z",
+    "success_event": "purchase_completed",
+    "success_condition": "is_trial = false",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1908",
+      "user_id": "U-04892",
+      "goal_id": "G05",
+      "goal_name": "first_paid_7d",
+      "goal_started_at": "2026-10-01T14:28:47.536Z",
+      "deadline": "2026-10-08T14:28:47.536Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T14:28:47.536Z",
+  "last_home_page_dialect": "d1",
+  "last_action_id": "A-0628",
+  "processed_event_ids": [
+    "b013d525-e61c-44a6-bfab-66cb1de24b56"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_paid_7d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T14:28:47.536Z"
+}

@@ -1,0 +1,66 @@
+{
+  "user_id": "U-01930",
+  "arm": "agent",
+  "signup_at": "2026-06-07T21:38:16.936Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d4",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-19T04:47:30.670Z",
+  "last_event_at": "2026-10-01T14:16:42.905Z",
+  "last_app_open": "2026-10-01T14:16:42.905Z",
+  "sessions_count": 4,
+  "distinct_app_open_ist_days": [
+    "2026-09-19",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T11:02:17.319Z",
+    "deadline": "2026-10-04T11:02:17.319Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1858",
+      "user_id": "U-01930",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T14:16:42.905Z",
+      "deadline": "2026-10-04T11:02:17.319Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T11:02:17.319Z",
+  "last_home_page_dialect": "d1",
+  "last_action_id": "A-0434",
+  "processed_event_ids": [
+    "54e55b4b-41cc-42ab-94cc-5b7343909770",
+    "4d59c204-84e0-4654-a439-dedbdddffe8e"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T14:16:42.905Z"
+}

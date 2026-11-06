@@ -1,0 +1,39 @@
+{
+  "user_id": "U-03406",
+  "arm": "holdout",
+  "signup_at": "2026-09-20T09:30:28.679Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d2",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-20T09:30:29.795Z",
+  "last_event_at": "2026-09-30T16:00:53.767Z",
+  "last_app_open": "2026-09-30T15:59:32.423Z",
+  "sessions_count": 2,
+  "distinct_app_open_ist_days": [
+    "2026-09-20",
+    "2026-09-30"
+  ],
+  "total_plays": 2,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Action": 2,
+    "Comedy": 2
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-30T16:00:53.767Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-30T16:00:53.767Z"
+}

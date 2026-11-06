@@ -1,0 +1,64 @@
+{
+  "user_id": "U-03873",
+  "arm": "agent",
+  "signup_at": "2026-10-01T06:38:34.739Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": null,
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": null,
+  "first_event_at": "2026-10-01T06:38:34.739Z",
+  "last_event_at": "2026-10-01T06:39:12.113Z",
+  "last_app_open": "2026-10-01T06:39:12.113Z",
+  "sessions_count": 1,
+  "distinct_app_open_ist_days": [
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T06:39:09.458Z",
+    "deadline": "2026-10-02T06:39:09.458Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0817",
+      "user_id": "U-03873",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T06:39:09.458Z",
+      "deadline": "2026-10-02T06:39:09.458Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T06:39:09.458Z",
+  "last_home_page_dialect": "d6",
+  "last_action_id": "A-0217",
+  "processed_event_ids": [
+    "10d0ffc7-8825-4689-a18f-5035e91b5994",
+    "99eada2d-6c2d-4e00-9f21-50ae641b8ad2"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T06:39:12.113Z"
+}

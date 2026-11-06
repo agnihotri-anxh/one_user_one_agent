@@ -1,0 +1,65 @@
+{
+  "user_id": "U-03317",
+  "arm": "agent",
+  "signup_at": "2024-10-27T12:07:31.847Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-25T10:34:43.082Z",
+  "last_event_at": "2026-10-01T13:24:43.054Z",
+  "last_app_open": "2026-10-01T13:24:43.054Z",
+  "sessions_count": 3,
+  "distinct_app_open_ist_days": [
+    "2026-09-25",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T13:24:43.054Z",
+    "deadline": "2026-10-04T13:24:43.054Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1689",
+      "user_id": "U-03317",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T13:24:43.054Z",
+      "deadline": "2026-10-04T13:24:43.054Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T13:24:43.054Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0547",
+  "processed_event_ids": [
+    "5f04d88a-3d4b-4e3c-af1b-65b4bfb955b9"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T13:24:43.054Z"
+}

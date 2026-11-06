@@ -1,0 +1,63 @@
+{
+  "user_id": "U-04102",
+  "arm": "agent",
+  "signup_at": "2025-01-26T14:34:15.300Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d6",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-10-01T10:41:42.393Z",
+  "last_event_at": "2026-10-01T10:41:42.393Z",
+  "last_app_open": "2026-10-01T10:41:42.393Z",
+  "sessions_count": 1,
+  "distinct_app_open_ist_days": [
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T10:41:42.393Z",
+    "deadline": "2026-10-04T10:41:42.393Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1334",
+      "user_id": "U-04102",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T10:41:42.393Z",
+      "deadline": "2026-10-04T10:41:42.393Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-025958",
+      "evidence_event_type": "episode_completed",
+      "evidence_timestamp": "2026-10-01T11:07:05.393Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (episode_completed)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T10:41:42.393Z",
+  "last_home_page_dialect": "d6",
+  "last_action_id": "A-0414",
+  "processed_event_ids": [
+    "810f95d1-19cc-47a2-9e97-0927117620b9"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (episode_completed)"
+  ],
+  "updated_at": "2026-10-01T10:41:42.393Z"
+}

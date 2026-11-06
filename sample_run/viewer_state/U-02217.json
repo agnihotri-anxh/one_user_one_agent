@@ -1,0 +1,66 @@
+{
+  "user_id": "U-02217",
+  "arm": "agent",
+  "signup_at": "2025-12-25T01:28:30.056Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "profile",
+  "preferred_dialect": "d5",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-11T07:19:39.148Z",
+  "last_event_at": "2026-10-01T09:54:40.656Z",
+  "last_app_open": "2026-10-01T09:54:40.656Z",
+  "sessions_count": 3,
+  "distinct_app_open_ist_days": [
+    "2026-09-11",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Romance": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-11T07:20:58.334Z",
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T09:54:40.656Z",
+    "deadline": "2026-10-15T09:54:40.656Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1242",
+      "user_id": "U-02217",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T09:54:40.656Z",
+      "deadline": "2026-10-15T09:54:40.656Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T09:54:40.656Z",
+  "last_home_page_dialect": "d3",
+  "last_action_id": "A-0378",
+  "processed_event_ids": [
+    "2c27a9cd-5215-4749-abbc-9b3cf9cf8ebd"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T09:54:40.656Z"
+}

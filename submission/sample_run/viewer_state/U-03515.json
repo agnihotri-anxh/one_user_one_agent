@@ -1,0 +1,74 @@
+{
+  "user_id": "U-03515",
+  "arm": "agent",
+  "signup_at": "2024-11-17T00:50:14.945Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d5",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-02T10:24:08.120Z",
+  "last_event_at": "2026-10-01T16:20:01.514Z",
+  "last_app_open": "2026-10-01T16:20:01.514Z",
+  "sessions_count": 13,
+  "distinct_app_open_ist_days": [
+    "2026-09-02",
+    "2026-09-09",
+    "2026-09-13",
+    "2026-09-18",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-10-01"
+  ],
+  "total_plays": 5,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Family": 5,
+    "Devotional": 5
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-25T06:34:17.928Z",
+  "active_goal": {
+    "id": "G08",
+    "name": "try_new_release_7d",
+    "started_at": "2026-10-01T16:20:01.514Z",
+    "deadline": "2026-10-08T16:20:01.514Z",
+    "success_event": "play_started",
+    "success_condition": "title released in 30 days before goal start",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2436",
+      "user_id": "U-03515",
+      "goal_id": "G08",
+      "goal_name": "try_new_release_7d",
+      "goal_started_at": "2026-10-01T16:20:01.514Z",
+      "deadline": "2026-10-08T16:20:01.514Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-022208",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-04T15:04:16.000Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (play_started)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T16:20:01.514Z",
+  "last_home_page_dialect": "d5",
+  "last_action_id": "A-0831",
+  "processed_event_ids": [
+    "f6bcfc75-d224-4bd3-970e-909906796188"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal try_new_release_7d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (play_started)"
+  ],
+  "updated_at": "2026-10-01T16:20:01.514Z"
+}

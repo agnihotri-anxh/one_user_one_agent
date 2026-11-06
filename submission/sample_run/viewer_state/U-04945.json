@@ -1,0 +1,73 @@
+{
+  "user_id": "U-04945",
+  "arm": "agent",
+  "signup_at": "2025-05-25T21:10:23.335Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d4",
+  "preferred_language": "hin",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-08T12:57:18.228Z",
+  "last_event_at": "2026-10-01T09:38:12.246Z",
+  "last_app_open": "2026-10-01T09:38:12.246Z",
+  "sessions_count": 13,
+  "distinct_app_open_ist_days": [
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-13",
+    "2026-09-20",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-08T12:59:12.596Z",
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-09-30T19:03:44.472Z",
+    "deadline": "2026-10-03T19:03:44.472Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1215",
+      "user_id": "U-04945",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T09:38:12.246Z",
+      "deadline": "2026-10-03T19:03:44.472Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-09-30T19:03:44.472Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0009",
+  "processed_event_ids": [
+    "c0d3f706-cf76-4643-ad0f-a283581b46a6",
+    "69de2af2-7c28-4c69-aa51-ad52a533b7fe",
+    "1c6982a4-d05f-4e99-ac44-b98fea9e0731",
+    "c72a6f8f-5165-416e-9b0a-6a4bc5f04897",
+    "d95f43be-220c-421c-82b1-2fb1015234b6"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T09:38:12.246Z"
+}

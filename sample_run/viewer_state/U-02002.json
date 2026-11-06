@@ -1,0 +1,86 @@
+{
+  "user_id": "U-02002",
+  "arm": "agent",
+  "signup_at": "2026-04-15T11:06:50.912Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d6",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-01T07:11:05.202Z",
+  "last_event_at": "2026-10-01T13:45:29.365Z",
+  "last_app_open": "2026-10-01T13:45:29.365Z",
+  "sessions_count": 18,
+  "distinct_app_open_ist_days": [
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-06",
+    "2026-09-07",
+    "2026-09-11",
+    "2026-09-14",
+    "2026-09-16",
+    "2026-09-19",
+    "2026-09-21",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 9,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Drama": 6,
+    "Thriller": 5,
+    "Comedy": 1,
+    "Family": 2,
+    "Devotional": 1,
+    "Action": 2
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-30T14:41:56.945Z",
+  "active_goal": {
+    "id": "G08",
+    "name": "try_new_release_7d",
+    "started_at": "2026-10-01T13:45:25.217Z",
+    "deadline": "2026-10-08T13:45:25.217Z",
+    "success_event": "play_started",
+    "success_condition": "title released in 30 days before goal start",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1751",
+      "user_id": "U-02002",
+      "goal_id": "G08",
+      "goal_name": "try_new_release_7d",
+      "goal_started_at": "2026-10-01T13:45:25.217Z",
+      "deadline": "2026-10-08T13:45:25.217Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-013087",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-01T13:48:03.217Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (play_started)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T13:45:25.217Z",
+  "last_home_page_dialect": "d1",
+  "last_action_id": "A-0569",
+  "processed_event_ids": [
+    "aef5d792-c486-4bcd-b9f0-f50f86a6307b",
+    "714e2a08-4c67-45f0-8aaf-fd5fd651cb6a"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal try_new_release_7d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (play_started)"
+  ],
+  "updated_at": "2026-10-01T13:45:29.365Z"
+}

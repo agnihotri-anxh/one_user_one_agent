@@ -1,0 +1,75 @@
+{
+  "user_id": "U-04653",
+  "arm": "agent",
+  "signup_at": "2025-09-08T20:19:44.452Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d4",
+  "preferred_language": "hin",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-03T12:47:12.650Z",
+  "last_event_at": "2026-10-01T09:38:38.102Z",
+  "last_app_open": "2026-10-01T08:06:31.172Z",
+  "sessions_count": 11,
+  "distinct_app_open_ist_days": [
+    "2026-09-03",
+    "2026-09-13",
+    "2026-09-14",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-21",
+    "2026-10-01"
+  ],
+  "total_plays": 3,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Drama": 1,
+    "Family": 1,
+    "Crime": 1,
+    "Action": 2
+  },
+  "series_progress": {},
+  "last_play_at": "2026-10-01T08:08:26.594Z",
+  "active_goal": {
+    "id": "G08",
+    "name": "try_new_release_7d",
+    "started_at": "2026-10-01T04:40:32.755Z",
+    "deadline": "2026-10-08T04:40:32.755Z",
+    "success_event": "play_started",
+    "success_condition": "title released in 30 days before goal start",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0353",
+      "user_id": "U-04653",
+      "goal_id": "G08",
+      "goal_name": "try_new_release_7d",
+      "goal_started_at": "2026-10-01T04:40:32.755Z",
+      "deadline": "2026-10-08T04:40:32.755Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "68c71d49-489d-4cdb-ae08-80784a289116",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-01T08:08:26.594Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (play_started)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T04:40:32.755Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0125",
+  "processed_event_ids": [
+    "897ad0eb-b51b-403e-880c-b3c4362c6294",
+    "0d983431-3cbc-4472-8925-27971eb9115f"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal try_new_release_7d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (play_started)"
+  ],
+  "updated_at": "2026-10-01T09:38:38.102Z"
+}

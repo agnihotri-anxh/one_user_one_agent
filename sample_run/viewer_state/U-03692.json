@@ -1,0 +1,67 @@
+{
+  "user_id": "U-03692",
+  "arm": "agent",
+  "signup_at": "2026-09-30T01:12:53.337Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": null,
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": null,
+  "first_event_at": "2026-09-30T01:12:53.337Z",
+  "last_event_at": "2026-10-01T14:56:17.080Z",
+  "last_app_open": "2026-10-01T14:56:17.080Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Drama": 1,
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-30T01:14:24.809Z",
+  "active_goal": {
+    "id": "G03",
+    "name": "second_day_return_2d",
+    "started_at": "2026-10-01T14:56:17.080Z",
+    "deadline": "2026-10-03T14:56:17.080Z",
+    "success_event": "play_started",
+    "success_condition": "on a later IST calendar day within the window",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2001",
+      "user_id": "U-03692",
+      "goal_id": "G03",
+      "goal_name": "second_day_return_2d",
+      "goal_started_at": "2026-10-01T14:56:17.080Z",
+      "deadline": "2026-10-03T14:56:17.080Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T14:56:17.080Z",
+  "last_home_page_dialect": "d1",
+  "last_action_id": "A-0674",
+  "processed_event_ids": [
+    "b4d2d7a1-af67-483c-ad45-2e9bf84d63db"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal second_day_return_2d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T14:56:17.080Z"
+}

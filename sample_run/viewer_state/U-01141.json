@@ -1,0 +1,64 @@
+{
+  "user_id": "U-01141",
+  "arm": "agent",
+  "signup_at": "2026-10-01T15:09:07.943Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": null,
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": null,
+  "first_event_at": "2026-10-01T15:09:07.943Z",
+  "last_event_at": "2026-10-01T15:09:46.788Z",
+  "last_app_open": "2026-10-01T15:09:46.788Z",
+  "sessions_count": 1,
+  "distinct_app_open_ist_days": [
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T15:09:40.473Z",
+    "deadline": "2026-10-02T15:09:40.473Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2176",
+      "user_id": "U-01141",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T15:09:40.473Z",
+      "deadline": "2026-10-02T15:09:40.473Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-007631",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-01T15:10:46.473Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (play_started)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T15:09:40.473Z",
+  "last_home_page_dialect": "d5",
+  "last_action_id": "A-0737",
+  "processed_event_ids": [
+    "cf64047e-0627-4092-abd9-f0f553d67bda",
+    "fa54c9f9-aefa-4531-8d54-95eff8ff629b"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (play_started)"
+  ],
+  "updated_at": "2026-10-01T15:09:46.788Z"
+}

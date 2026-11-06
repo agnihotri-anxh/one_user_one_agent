@@ -1,0 +1,64 @@
+{
+  "user_id": "U-04601",
+  "arm": "agent",
+  "signup_at": "2026-10-01T06:51:38.449Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": null,
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": null,
+  "first_event_at": "2026-10-01T06:51:38.449Z",
+  "last_event_at": "2026-10-01T06:51:58.662Z",
+  "last_app_open": "2026-10-01T06:51:58.662Z",
+  "sessions_count": 1,
+  "distinct_app_open_ist_days": [
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T06:51:57.688Z",
+    "deadline": "2026-10-02T06:51:57.688Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "ORGANIC_UNATTRIBUTED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0837",
+      "user_id": "U-04601",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T06:51:57.688Z",
+      "deadline": "2026-10-02T06:51:57.688Z",
+      "status": "ORGANIC_UNATTRIBUTED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-028695",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-01T06:53:35.688Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal success criteria met, but occurred organically without prior agent exposure"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T06:51:57.688Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0226",
+  "processed_event_ids": [
+    "e085c45d-8b5b-4940-9c5d-c987ed0dd3cf",
+    "b667d589-3214-4e1a-be00-d7d988e6bc81"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as ORGANIC_UNATTRIBUTED on 2026-11-05T16:19:02.017Z: Goal success criteria met, but occurred organically without prior agent exposure"
+  ],
+  "updated_at": "2026-10-01T06:51:58.662Z"
+}

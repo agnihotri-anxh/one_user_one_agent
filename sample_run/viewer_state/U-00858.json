@@ -1,0 +1,40 @@
+{
+  "user_id": "U-00858",
+  "arm": "agent",
+  "signup_at": "2025-06-23T17:20:55.358Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d4",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-16T06:28:34.503Z",
+  "last_event_at": "2026-09-28T10:45:41.921Z",
+  "last_app_open": "2026-09-28T10:45:15.106Z",
+  "sessions_count": 5,
+  "distinct_app_open_ist_days": [
+    "2026-09-16",
+    "2026-09-20",
+    "2026-09-23",
+    "2026-09-28"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Family": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-23T16:37:46.097Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-28T10:45:41.921Z"
+}

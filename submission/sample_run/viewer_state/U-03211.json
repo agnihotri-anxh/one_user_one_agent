@@ -1,0 +1,74 @@
+{
+  "user_id": "U-03211",
+  "arm": "agent",
+  "signup_at": "2026-06-21T11:30:53.373Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d1",
+  "preferred_language": "hin",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-02T14:57:48.511Z",
+  "last_event_at": "2026-10-01T14:33:39.342Z",
+  "last_app_open": "2026-10-01T14:33:39.342Z",
+  "sessions_count": 12,
+  "distinct_app_open_ist_days": [
+    "2026-09-02",
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-17",
+    "2026-09-19",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Thriller": 1,
+    "Comedy": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-17T08:07:18.508Z",
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T14:33:39.342Z",
+    "deadline": "2026-10-04T14:33:39.342Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "ORGANIC_UNATTRIBUTED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1930",
+      "user_id": "U-03211",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T14:33:39.342Z",
+      "deadline": "2026-10-04T14:33:39.342Z",
+      "status": "ORGANIC_UNATTRIBUTED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-020146",
+      "evidence_event_type": "episode_completed",
+      "evidence_timestamp": "2026-10-01T15:11:25.342Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal success criteria met, but occurred organically without prior agent exposure"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T14:33:39.342Z",
+  "last_home_page_dialect": "d1",
+  "last_action_id": "A-0643",
+  "processed_event_ids": [
+    "7733d78a-ddfd-46b0-81d5-5cc68beac888"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as ORGANIC_UNATTRIBUTED on 2026-11-05T16:19:02.017Z: Goal success criteria met, but occurred organically without prior agent exposure"
+  ],
+  "updated_at": "2026-10-01T14:33:39.342Z"
+}

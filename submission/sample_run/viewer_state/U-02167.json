@@ -1,0 +1,75 @@
+{
+  "user_id": "U-02167",
+  "arm": "agent",
+  "signup_at": "2025-05-09T07:15:19.838Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d5",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-09T13:48:32.842Z",
+  "last_event_at": "2026-10-01T14:28:54.125Z",
+  "last_app_open": "2026-10-01T14:28:54.125Z",
+  "sessions_count": 12,
+  "distinct_app_open_ist_days": [
+    "2026-09-09",
+    "2026-09-13",
+    "2026-09-15",
+    "2026-09-19",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-26",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Romance": 1,
+    "Family": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-23T06:17:22.398Z",
+  "active_goal": {
+    "id": "G08",
+    "name": "try_new_release_7d",
+    "started_at": "2026-09-30T19:57:35.848Z",
+    "deadline": "2026-10-07T19:57:35.848Z",
+    "success_event": "play_started",
+    "success_condition": "title released in 30 days before goal start",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1909",
+      "user_id": "U-02167",
+      "goal_id": "G08",
+      "goal_name": "try_new_release_7d",
+      "goal_started_at": "2026-10-01T14:28:54.125Z",
+      "deadline": "2026-10-07T19:57:35.848Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-09-30T19:57:35.848Z",
+  "last_home_page_dialect": "d5",
+  "last_action_id": "A-0017",
+  "processed_event_ids": [
+    "81eaeb2b-6e54-4e42-961f-cfce8b4567c9",
+    "0303b962-a017-4ee0-9223-3f813c8de408",
+    "65d1ab39-70ef-4621-af55-b5198adf7bc8"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal try_new_release_7d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T14:28:54.125Z"
+}

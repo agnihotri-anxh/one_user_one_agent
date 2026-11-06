@@ -1,0 +1,44 @@
+{
+  "user_id": "U-02453",
+  "arm": "agent",
+  "signup_at": "2025-10-08T14:45:19.640Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-05T16:29:18.357Z",
+  "last_event_at": "2026-10-01T03:56:22.558Z",
+  "last_app_open": "2026-10-01T03:56:22.558Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-05",
+    "2026-09-07",
+    "2026-09-18",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 2,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Devotional": 2,
+    "Action": 2
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-18T08:39:42.068Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [
+    "5900a478-7bd1-4e87-a8df-6c556e8ed5af"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-10-01T03:56:22.558Z"
+}

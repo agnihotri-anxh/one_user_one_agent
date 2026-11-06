@@ -1,0 +1,71 @@
+{
+  "user_id": "U-01711",
+  "arm": "agent",
+  "signup_at": "2025-07-19T02:53:38.946Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d6",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-05T11:28:04.215Z",
+  "last_event_at": "2026-10-01T13:18:21.591Z",
+  "last_app_open": "2026-10-01T13:18:21.591Z",
+  "sessions_count": 8,
+  "distinct_app_open_ist_days": [
+    "2026-09-05",
+    "2026-09-08",
+    "2026-09-18",
+    "2026-09-21",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Romance": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-05T13:46:13.138Z",
+  "active_goal": {
+    "id": "G12",
+    "name": "return_after_absence_7d",
+    "started_at": "2026-10-01T10:55:43.845Z",
+    "deadline": "2026-10-08T10:55:43.845Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1677",
+      "user_id": "U-01711",
+      "goal_id": "G12",
+      "goal_name": "return_after_absence_7d",
+      "goal_started_at": "2026-10-01T13:18:21.591Z",
+      "deadline": "2026-10-08T10:55:43.845Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-011246",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-06T14:52:52.000Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (play_started)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T10:55:43.845Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0426",
+  "processed_event_ids": [
+    "81ef6c0f-b6cc-41e4-8f80-351bab240388",
+    "a1303961-3501-4062-8062-235981155227",
+    "612ddd34-1b44-478f-8ec0-414b09f159bc"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal return_after_absence_7d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (play_started)"
+  ],
+  "updated_at": "2026-10-01T13:18:21.591Z"
+}

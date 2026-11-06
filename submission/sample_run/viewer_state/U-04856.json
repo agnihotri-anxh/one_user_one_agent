@@ -1,0 +1,75 @@
+{
+  "user_id": "U-04856",
+  "arm": "agent",
+  "signup_at": "2025-10-27T22:43:49.469Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d4",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-11T02:57:24.210Z",
+  "last_event_at": "2026-10-01T14:00:18.297Z",
+  "last_app_open": "2026-10-01T14:00:18.297Z",
+  "sessions_count": 12,
+  "distinct_app_open_ist_days": [
+    "2026-09-11",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-15",
+    "2026-09-19",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 2,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Comedy": 1,
+    "Romance": 1,
+    "Devotional": 1,
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-12T22:28:06.419Z",
+  "active_goal": {
+    "id": "G12",
+    "name": "return_after_absence_7d",
+    "started_at": "2026-10-01T13:40:09.883Z",
+    "deadline": "2026-10-08T13:40:09.883Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "ORGANIC_UNATTRIBUTED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1735",
+      "user_id": "U-04856",
+      "goal_id": "G12",
+      "goal_name": "return_after_absence_7d",
+      "goal_started_at": "2026-10-01T13:40:09.883Z",
+      "deadline": "2026-10-08T13:40:09.883Z",
+      "status": "ORGANIC_UNATTRIBUTED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-030374",
+      "evidence_event_type": "play_started",
+      "evidence_timestamp": "2026-10-01T13:40:55.883Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal success criteria met, but occurred organically without prior agent exposure"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T13:40:09.883Z",
+  "last_home_page_dialect": "d6",
+  "last_action_id": "A-0565",
+  "processed_event_ids": [
+    "26149df4-ff5a-4295-9c8c-9b10e52fc964",
+    "38c403f6-f7db-4f02-a19f-654a5869a44c"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal return_after_absence_7d judged as ORGANIC_UNATTRIBUTED on 2026-11-05T16:19:02.017Z: Goal success criteria met, but occurred organically without prior agent exposure"
+  ],
+  "updated_at": "2026-10-01T14:00:18.297Z"
+}

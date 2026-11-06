@@ -1,0 +1,71 @@
+{
+  "user_id": "U-01429",
+  "arm": "agent",
+  "signup_at": "2025-11-26T03:31:23.384Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_live",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-01T04:02:50.624Z",
+  "last_event_at": "2026-10-01T09:25:54.987Z",
+  "last_app_open": "2026-10-01T09:23:50.303Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-25",
+    "2026-10-01"
+  ],
+  "total_plays": 3,
+  "total_completions": 3,
+  "genre_affinities": {
+    "Family": 3,
+    "Comedy": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-25T09:26:25.438Z",
+  "active_goal": {
+    "id": "G05",
+    "name": "first_paid_7d",
+    "started_at": "2026-10-01T09:23:50.303Z",
+    "deadline": "2026-10-08T09:23:50.303Z",
+    "success_event": "purchase_completed",
+    "success_condition": "is_trial = false",
+    "status": "ORGANIC_UNATTRIBUTED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1183",
+      "user_id": "U-01429",
+      "goal_id": "G05",
+      "goal_name": "first_paid_7d",
+      "goal_started_at": "2026-10-01T09:23:50.303Z",
+      "deadline": "2026-10-08T09:23:50.303Z",
+      "status": "ORGANIC_UNATTRIBUTED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "6a24e107-1cf3-4360-901d-2038e0f2b3d7",
+      "evidence_event_type": "purchase_completed",
+      "evidence_timestamp": "2026-10-01T09:25:54.987Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal success criteria met, but occurred organically without prior agent exposure"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T09:23:50.303Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0357",
+  "processed_event_ids": [
+    "aae68f29-bd59-43ee-b970-7bc784b73964"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_paid_7d judged as ORGANIC_UNATTRIBUTED on 2026-11-05T16:19:02.017Z: Goal success criteria met, but occurred organically without prior agent exposure"
+  ],
+  "updated_at": "2026-10-01T09:25:54.987Z"
+}

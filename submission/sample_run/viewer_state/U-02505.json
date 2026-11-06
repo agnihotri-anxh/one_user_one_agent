@@ -1,0 +1,42 @@
+{
+  "user_id": "U-02505",
+  "arm": "holdout",
+  "signup_at": "2025-12-17T08:45:26.749Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "profile",
+  "preferred_dialect": "d1",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-08T19:18:29.868Z",
+  "last_event_at": "2026-09-29T14:33:46.957Z",
+  "last_app_open": "2026-09-29T12:39:38.682Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-09",
+    "2026-09-19",
+    "2026-09-29"
+  ],
+  "total_plays": 4,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Drama": 3,
+    "Thriller": 2,
+    "Romance": 2,
+    "Devotional": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-29T12:41:23.605Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-29T14:33:46.957Z"
+}

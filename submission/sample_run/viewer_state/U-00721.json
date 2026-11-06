@@ -1,0 +1,38 @@
+{
+  "user_id": "U-00721",
+  "arm": "agent",
+  "signup_at": "2026-10-01T06:54:21.793Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": null,
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": null,
+  "first_event_at": "2026-10-01T06:54:21.793Z",
+  "last_event_at": "2026-10-01T06:55:01.737Z",
+  "last_app_open": "2026-10-01T06:55:01.737Z",
+  "sessions_count": 1,
+  "distinct_app_open_ist_days": [
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [
+    "4940bb85-0b4f-47b5-8612-777b0bcd4392",
+    "f52d9f46-bccc-48f1-886e-f225a87535bf"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-10-01T06:55:01.737Z"
+}

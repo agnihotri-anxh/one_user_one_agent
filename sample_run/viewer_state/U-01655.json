@@ -1,0 +1,67 @@
+{
+  "user_id": "U-01655",
+  "arm": "agent",
+  "signup_at": "2025-05-04T07:44:35.450Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-03T11:28:27.289Z",
+  "last_event_at": "2026-10-01T16:56:46.319Z",
+  "last_app_open": "2026-10-01T16:56:46.319Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-03",
+    "2026-09-09",
+    "2026-09-22",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T16:56:46.319Z",
+    "deadline": "2026-10-04T16:56:46.319Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2568",
+      "user_id": "U-01655",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T16:56:46.319Z",
+      "deadline": "2026-10-04T16:56:46.319Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T16:56:46.319Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0873",
+  "processed_event_ids": [
+    "96d25915-0eee-41e3-a584-c3098b7c4a1a",
+    "a766c715-7820-4a14-82be-b011348368ea"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T16:56:46.319Z"
+}

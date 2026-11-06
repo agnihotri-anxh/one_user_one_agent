@@ -1,0 +1,74 @@
+{
+  "user_id": "U-00649",
+  "arm": "agent",
+  "signup_at": "2025-12-13T10:09:45.034Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_live",
+  "preferred_dialect": "d4",
+  "preferred_language": "en",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-02T14:38:30.220Z",
+  "last_event_at": "2026-10-01T07:37:32.152Z",
+  "last_app_open": "2026-10-01T07:35:14.802Z",
+  "sessions_count": 13,
+  "distinct_app_open_ist_days": [
+    "2026-09-02",
+    "2026-09-10",
+    "2026-09-13",
+    "2026-09-22",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-10-01"
+  ],
+  "total_plays": 4,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Crime": 3,
+    "Action": 3,
+    "Drama": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-26T11:30:52.874Z",
+  "active_goal": {
+    "id": "G05",
+    "name": "first_paid_7d",
+    "started_at": "2026-10-01T07:35:14.802Z",
+    "deadline": "2026-10-08T07:35:14.802Z",
+    "success_event": "purchase_completed",
+    "success_condition": "is_trial = false",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0936",
+      "user_id": "U-00649",
+      "goal_id": "G05",
+      "goal_name": "first_paid_7d",
+      "goal_started_at": "2026-10-01T07:35:14.802Z",
+      "deadline": "2026-10-08T07:35:14.802Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "9b6c3196-4d3b-45cf-8378-78dd0899a0f1",
+      "evidence_event_type": "purchase_completed",
+      "evidence_timestamp": "2026-10-01T07:37:32.152Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (purchase_completed)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T07:35:14.802Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0265",
+  "processed_event_ids": [
+    "17530592-11e5-4685-9158-04843b924866"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_paid_7d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (purchase_completed)"
+  ],
+  "updated_at": "2026-10-01T07:37:32.152Z"
+}

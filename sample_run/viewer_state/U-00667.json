@@ -1,0 +1,84 @@
+{
+  "user_id": "U-00667",
+  "arm": "agent",
+  "signup_at": "2026-03-21T22:58:37.674Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-02T02:25:09.948Z",
+  "last_event_at": "2026-10-01T14:40:08.670Z",
+  "last_app_open": "2026-10-01T14:40:08.670Z",
+  "sessions_count": 20,
+  "distinct_app_open_ist_days": [
+    "2026-09-02",
+    "2026-09-06",
+    "2026-09-07",
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-11",
+    "2026-09-15",
+    "2026-09-17",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-23",
+    "2026-09-26",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 7,
+  "total_completions": 4,
+  "genre_affinities": {
+    "Romance": 3,
+    "Devotional": 1,
+    "Family": 4,
+    "Action": 2
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-30T11:48:09.779Z",
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T00:51:39.136Z",
+    "deadline": "2026-10-15T00:51:39.136Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1950",
+      "user_id": "U-00667",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T14:40:08.670Z",
+      "deadline": "2026-10-15T00:51:39.136Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-004329",
+      "evidence_event_type": "purchase_completed",
+      "evidence_timestamp": "2026-10-13T15:46:00.000Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (purchase_completed)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T00:51:39.136Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0035",
+  "processed_event_ids": [
+    "2c09789f-5212-490a-a63a-874b65faa6e9",
+    "54965cdb-724f-4f33-a6bf-faac87e07e2d",
+    "5879353a-f6ca-46d1-8bd0-7ffa0a629ca3"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (purchase_completed)"
+  ],
+  "updated_at": "2026-10-01T14:40:08.670Z"
+}

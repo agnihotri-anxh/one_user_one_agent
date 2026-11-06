@@ -1,0 +1,67 @@
+{
+  "user_id": "U-00478",
+  "arm": "agent",
+  "signup_at": "2025-03-06T03:51:53.249Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "profile",
+  "preferred_dialect": "d6",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-30T05:18:49.774Z",
+  "last_event_at": "2026-10-01T08:23:44.504Z",
+  "last_app_open": "2026-10-01T08:23:44.504Z",
+  "sessions_count": 2,
+  "distinct_app_open_ist_days": [
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Devotional": 1,
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-30T05:19:31.762Z",
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T08:23:44.504Z",
+    "deadline": "2026-10-15T08:23:44.504Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1046",
+      "user_id": "U-00478",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T08:23:44.504Z",
+      "deadline": "2026-10-15T08:23:44.504Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T08:23:44.504Z",
+  "last_home_page_dialect": "d6",
+  "last_action_id": "A-0304",
+  "processed_event_ids": [
+    "11123156-32dd-4114-814e-94d24fe7ee68"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T08:23:44.504Z"
+}

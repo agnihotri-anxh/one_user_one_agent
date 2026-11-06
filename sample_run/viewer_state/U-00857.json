@@ -1,0 +1,65 @@
+{
+  "user_id": "U-00857",
+  "arm": "agent",
+  "signup_at": "2026-09-27T22:35:05.612Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d5",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-27T22:35:07.800Z",
+  "last_event_at": "2026-10-01T09:42:24.740Z",
+  "last_app_open": "2026-10-01T09:42:24.740Z",
+  "sessions_count": 5,
+  "distinct_app_open_ist_days": [
+    "2026-09-28",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T09:42:24.740Z",
+    "deadline": "2026-10-02T09:42:24.740Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1223",
+      "user_id": "U-00857",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T09:42:24.740Z",
+      "deadline": "2026-10-02T09:42:24.740Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T09:42:24.740Z",
+  "last_home_page_dialect": "d5",
+  "last_action_id": "A-0371",
+  "processed_event_ids": [
+    "9ba64776-85fd-4ed0-a111-224ed76c45e4"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T09:42:24.740Z"
+}

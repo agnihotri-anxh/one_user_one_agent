@@ -1,0 +1,67 @@
+{
+  "user_id": "U-00133",
+  "arm": "agent",
+  "signup_at": "2026-09-28T00:16:37.399Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": null,
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-28T00:20:30.906Z",
+  "last_event_at": "2026-10-01T06:11:11.196Z",
+  "last_app_open": "2026-10-01T06:11:11.196Z",
+  "sessions_count": 2,
+  "distinct_app_open_ist_days": [
+    "2026-09-28",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Drama": 1,
+    "Comedy": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-28T00:22:38.823Z",
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T06:11:11.196Z",
+    "deadline": "2026-10-04T06:11:11.196Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0762",
+      "user_id": "U-00133",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T06:11:11.196Z",
+      "deadline": "2026-10-04T06:11:11.196Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-000829",
+      "evidence_event_type": "episode_completed",
+      "evidence_timestamp": "2026-10-03T07:49:55.000Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (episode_completed)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T06:11:11.196Z",
+  "last_home_page_dialect": "d3",
+  "last_action_id": "A-0190",
+  "processed_event_ids": [
+    "601dfb7f-7479-42ee-a92b-9992f136e302"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (episode_completed)"
+  ],
+  "updated_at": "2026-10-01T06:11:11.196Z"
+}

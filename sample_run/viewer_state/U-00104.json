@@ -1,0 +1,67 @@
+{
+  "user_id": "U-00104",
+  "arm": "agent",
+  "signup_at": "2024-10-14T14:46:50.981Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "profile",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-07T16:12:16.629Z",
+  "last_event_at": "2026-10-01T15:00:16.899Z",
+  "last_app_open": "2026-10-01T15:00:16.899Z",
+  "sessions_count": 3,
+  "distinct_app_open_ist_days": [
+    "2026-09-07",
+    "2026-09-10",
+    "2026-10-01"
+  ],
+  "total_plays": 1,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-07T16:14:13.557Z",
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T15:00:16.899Z",
+    "deadline": "2026-10-15T15:00:16.899Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2020",
+      "user_id": "U-00104",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T15:00:16.899Z",
+      "deadline": "2026-10-15T15:00:16.899Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T15:00:16.899Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0680",
+  "processed_event_ids": [
+    "cd4b7a8e-a97a-45a8-873e-4515b98ff1d5"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T15:00:16.899Z"
+}

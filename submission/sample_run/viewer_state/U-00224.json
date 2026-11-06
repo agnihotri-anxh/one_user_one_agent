@@ -1,0 +1,43 @@
+{
+  "user_id": "U-00224",
+  "arm": "holdout",
+  "signup_at": "2025-05-09T22:14:50.902Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d4",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-08T03:30:00.737Z",
+  "last_event_at": "2026-09-21T12:53:33.257Z",
+  "last_app_open": "2026-09-21T12:53:28.608Z",
+  "sessions_count": 7,
+  "distinct_app_open_ist_days": [
+    "2026-09-08",
+    "2026-09-15",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-21"
+  ],
+  "total_plays": 2,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Crime": 1,
+    "Comedy": 1,
+    "Drama": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-20T09:10:06.959Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-21T12:53:33.257Z"
+}

@@ -1,0 +1,40 @@
+{
+  "user_id": "U-03338",
+  "arm": "agent",
+  "signup_at": "2026-08-28T21:38:00.497Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d2",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-10T13:28:37.321Z",
+  "last_event_at": "2026-09-22T08:31:51.599Z",
+  "last_app_open": "2026-09-22T08:29:58.260Z",
+  "sessions_count": 6,
+  "distinct_app_open_ist_days": [
+    "2026-09-10",
+    "2026-09-19",
+    "2026-09-22"
+  ],
+  "total_plays": 3,
+  "total_completions": 2,
+  "genre_affinities": {
+    "Action": 3,
+    "Romance": 3
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-19T17:31:51.323Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-22T08:31:51.599Z"
+}

@@ -1,0 +1,80 @@
+{
+  "user_id": "U-03164",
+  "arm": "agent",
+  "signup_at": "2026-06-17T23:28:41.255Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d4",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-02T04:30:59.665Z",
+  "last_event_at": "2026-10-01T15:06:24.830Z",
+  "last_app_open": "2026-10-01T15:06:24.830Z",
+  "sessions_count": 18,
+  "distinct_app_open_ist_days": [
+    "2026-09-02",
+    "2026-09-05",
+    "2026-09-10",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-19",
+    "2026-09-21",
+    "2026-09-24",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 5,
+  "total_completions": 3,
+  "genre_affinities": {
+    "Family": 4,
+    "Crime": 1,
+    "Drama": 3,
+    "Romance": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-24T06:37:24.989Z",
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T15:06:24.830Z",
+    "deadline": "2026-10-15T15:06:24.830Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2125",
+      "user_id": "U-03164",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T15:06:24.830Z",
+      "deadline": "2026-10-15T15:06:24.830Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T15:06:24.830Z",
+  "last_home_page_dialect": "d4",
+  "last_action_id": "A-0720",
+  "processed_event_ids": [
+    "52ce661c-7e1b-4930-804b-2b1b485d4196",
+    "8e508d20-5a60-4f3b-a9f3-7d8bd710aced"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T15:06:24.830Z"
+}

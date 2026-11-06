@@ -1,0 +1,17 @@
+{
+  "total_decisions": 2769,
+  "wall_duration_seconds": 2.34,
+  "latency_ms": {
+    "min": 0,
+    "mean": 0.4,
+    "p50": 0,
+    "p95": 3.0,
+    "p99": 5.0,
+    "max": 8
+  },
+  "sla_compliance": {
+    "sub_2000ms_compliance_rate": 1.0,
+    "sub_60000ms_compliance_rate": 1.0,
+    "sla_breaches_count": 0
+  }
+}

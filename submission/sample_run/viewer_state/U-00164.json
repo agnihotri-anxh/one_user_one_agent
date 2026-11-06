@@ -1,0 +1,64 @@
+{
+  "user_id": "U-00164",
+  "arm": "agent",
+  "signup_at": "2026-09-28T15:06:56.396Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": null,
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-28T18:30:58.253Z",
+  "last_event_at": "2026-10-01T08:20:40.092Z",
+  "last_app_open": "2026-10-01T08:20:40.092Z",
+  "sessions_count": 3,
+  "distinct_app_open_ist_days": [
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T08:20:40.092Z",
+    "deadline": "2026-10-02T08:20:40.092Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1042",
+      "user_id": "U-00164",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T08:20:40.092Z",
+      "deadline": "2026-10-02T08:20:40.092Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T08:20:40.092Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0301",
+  "processed_event_ids": [
+    "f121b0df-2978-461f-96dd-83b1adb2820b"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T08:20:40.092Z"
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "U-03973",
+  "arm": "agent",
+  "signup_at": "2024-11-16T11:50:24.505Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d5",
+  "preferred_language": "en",
+  "notifications_opt_in": false,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-06T05:16:27.918Z",
+  "last_event_at": "2026-10-01T04:01:15.822Z",
+  "last_app_open": "2026-10-01T04:01:15.822Z",
+  "sessions_count": 10,
+  "distinct_app_open_ist_days": [
+    "2026-09-06",
+    "2026-09-07",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-16",
+    "2026-10-01"
+  ],
+  "total_plays": 2,
+  "total_completions": 0,
+  "genre_affinities": {
+    "Drama": 1,
+    "Action": 1,
+    "Thriller": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-12T09:33:57.640Z",
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T04:01:15.822Z",
+    "deadline": "2026-10-04T04:01:15.822Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-0290",
+      "user_id": "U-03973",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T04:01:15.822Z",
+      "deadline": "2026-10-04T04:01:15.822Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T04:01:15.822Z",
+  "last_home_page_dialect": "d5",
+  "last_action_id": "A-0106",
+  "processed_event_ids": [
+    "255939ee-cba8-4d5d-a9dd-cf1f71ca205f"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T04:01:15.822Z"
+}

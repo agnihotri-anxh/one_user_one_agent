@@ -1,0 +1,65 @@
+{
+  "user_id": "U-04276",
+  "arm": "agent",
+  "signup_at": "2025-07-01T16:13:53.548Z",
+  "subscription_status": "lapsed",
+  "subscription_source": "profile",
+  "preferred_dialect": "d3",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-09T06:50:23.714Z",
+  "last_event_at": "2026-10-01T12:26:44.872Z",
+  "last_app_open": "2026-10-01T12:26:44.872Z",
+  "sessions_count": 5,
+  "distinct_app_open_ist_days": [
+    "2026-09-09",
+    "2026-09-29",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G06",
+    "name": "reactivate_lapsed_14d",
+    "started_at": "2026-10-01T12:25:00.912Z",
+    "deadline": "2026-10-15T12:25:00.912Z",
+    "success_event": "purchase_completed",
+    "success_condition": "any paid plan",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1564",
+      "user_id": "U-04276",
+      "goal_id": "G06",
+      "goal_name": "reactivate_lapsed_14d",
+      "goal_started_at": "2026-10-01T12:25:00.912Z",
+      "deadline": "2026-10-15T12:25:00.912Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T12:25:00.912Z",
+  "last_home_page_dialect": "d3",
+  "last_action_id": "A-0500",
+  "processed_event_ids": [
+    "94ec4df5-1f45-4b99-8905-21e362df6c50"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal reactivate_lapsed_14d judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T12:26:44.872Z"
+}

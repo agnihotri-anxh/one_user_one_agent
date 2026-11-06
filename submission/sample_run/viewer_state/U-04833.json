@@ -1,0 +1,64 @@
+{
+  "user_id": "U-04833",
+  "arm": "agent",
+  "signup_at": "2026-09-25T02:15:02.695Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": null,
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": true,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-03T11:41:38.313Z",
+  "last_event_at": "2026-10-01T15:17:20.441Z",
+  "last_app_open": "2026-10-01T15:17:20.441Z",
+  "sessions_count": 2,
+  "distinct_app_open_ist_days": [
+    "2026-09-25",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G01",
+    "name": "first_play_24h",
+    "started_at": "2026-10-01T15:17:20.441Z",
+    "deadline": "2026-10-02T15:17:20.441Z",
+    "success_event": "play_started",
+    "success_condition": "any title",
+    "status": "FAILED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-2219",
+      "user_id": "U-04833",
+      "goal_id": "G01",
+      "goal_name": "first_play_24h",
+      "goal_started_at": "2026-10-01T15:17:20.441Z",
+      "deadline": "2026-10-02T15:17:20.441Z",
+      "status": "FAILED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": null,
+      "evidence_event_type": null,
+      "evidence_timestamp": null,
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal window deadline expired without observed success criteria"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T15:17:20.441Z",
+  "last_home_page_dialect": "d2",
+  "last_action_id": "A-0751",
+  "processed_event_ids": [
+    "c6d7da2e-22da-4b10-82e7-02a95662698e"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_play_24h judged as FAILED on 2026-11-05T16:19:02.017Z: Goal window deadline expired without observed success criteria"
+  ],
+  "updated_at": "2026-10-01T15:17:20.441Z"
+}

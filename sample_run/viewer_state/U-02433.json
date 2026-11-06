@@ -1,0 +1,43 @@
+{
+  "user_id": "U-02433",
+  "arm": "holdout",
+  "signup_at": "2026-04-30T14:54:37.984Z",
+  "subscription_status": "active",
+  "subscription_source": "telemetry_history",
+  "preferred_dialect": "d7",
+  "preferred_language": "hin",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "ios",
+  "first_event_at": "2026-09-09T06:49:03.353Z",
+  "last_event_at": "2026-09-26T07:47:34.293Z",
+  "last_app_open": "2026-09-26T07:47:18.234Z",
+  "sessions_count": 7,
+  "distinct_app_open_ist_days": [
+    "2026-09-09",
+    "2026-09-11",
+    "2026-09-13",
+    "2026-09-17",
+    "2026-09-19",
+    "2026-09-26"
+  ],
+  "total_plays": 2,
+  "total_completions": 1,
+  "genre_affinities": {
+    "Devotional": 2,
+    "Action": 1
+  },
+  "series_progress": {},
+  "last_play_at": "2026-09-19T10:04:17.163Z",
+  "active_goal": null,
+  "goal_history": [],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": null,
+  "last_home_page_dialect": null,
+  "last_action_id": null,
+  "processed_event_ids": [],
+  "decisions_count": 0,
+  "learned_insights": [],
+  "updated_at": "2026-09-26T07:47:34.293Z"
+}

@@ -1,0 +1,69 @@
+{
+  "user_id": "U-01230",
+  "arm": "agent",
+  "signup_at": "2024-12-05T00:51:30.186Z",
+  "subscription_status": "never",
+  "subscription_source": "profile",
+  "preferred_dialect": "d6",
+  "preferred_language": "en",
+  "notifications_opt_in": true,
+  "whatsapp_opt_in": false,
+  "opted_out_channels": [],
+  "platform": "android",
+  "first_event_at": "2026-09-13T10:00:40.874Z",
+  "last_event_at": "2026-10-01T08:40:58.830Z",
+  "last_app_open": "2026-10-01T08:40:58.830Z",
+  "sessions_count": 8,
+  "distinct_app_open_ist_days": [
+    "2026-09-13",
+    "2026-09-21",
+    "2026-09-26",
+    "2026-09-28",
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "total_plays": 0,
+  "total_completions": 0,
+  "genre_affinities": {},
+  "series_progress": {},
+  "last_play_at": null,
+  "active_goal": {
+    "id": "G02",
+    "name": "first_full_episode_3d",
+    "started_at": "2026-10-01T02:40:18.872Z",
+    "deadline": "2026-10-04T02:40:18.872Z",
+    "success_event": "episode_completed",
+    "success_condition": "any episode",
+    "status": "SUCCEEDED"
+  },
+  "goal_history": [
+    {
+      "decision_id": "D-1087",
+      "user_id": "U-01230",
+      "goal_id": "G02",
+      "goal_name": "first_full_episode_3d",
+      "goal_started_at": "2026-10-01T08:40:58.830Z",
+      "deadline": "2026-10-04T02:40:18.872Z",
+      "status": "SUCCEEDED",
+      "attributed_to_action_id": null,
+      "evidence_event_id": "oua-008129",
+      "evidence_event_type": "episode_completed",
+      "evidence_timestamp": "2026-10-03T13:53:03.000Z",
+      "judged_at": "2026-11-05T16:19:02.017Z",
+      "reason": "Goal criteria successfully achieved following agent exposure (episode_completed)"
+    }
+  ],
+  "messages_sent_ist_days": {},
+  "last_home_page_published_at": "2026-10-01T02:40:18.872Z",
+  "last_home_page_dialect": "d6",
+  "last_action_id": "A-0067",
+  "processed_event_ids": [
+    "f9c1cec3-a1ec-4430-82f0-f6591c79c529",
+    "afb625e4-2f4e-435a-be69-5ad9b33c3274"
+  ],
+  "decisions_count": 0,
+  "learned_insights": [
+    "Goal first_full_episode_3d judged as SUCCEEDED on 2026-11-05T16:19:02.017Z: Goal criteria successfully achieved following agent exposure (episode_completed)"
+  ],
+  "updated_at": "2026-10-01T08:40:58.830Z"
+}
